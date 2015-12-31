@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 #
-# Example: ./replacer/./bin/replace_text \.try .try!
+# Example: ./bin/replace_text \.try .try!
 #
 $: << 'lib'
 
