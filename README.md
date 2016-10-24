@@ -1,7 +1,11 @@
 # Replace Text
 
-## Example
+## Usage
 
 ```
-./bin/replace_text \.try .try!
+replace_text pattern replacement [path]
 ```
+
+## Requirements
+
+* The Silver Searcher (ag)

@@ -1,9 +1,0 @@
-#!/usr/bin/env ruby
-#
-# Example: ./bin/replace_text \.try .try!
-#
-$: << 'lib'
-
-require 'replace_text/core'
-
-ReplaceText::Core.new.replace!(ARGV[0], ARGV[1])
